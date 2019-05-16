@@ -1,7 +1,7 @@
 apply plugin: 'kotlin-multiplatform'
 apply from: 'android.gradle'
 
-apply from: rootProject.file('gradle/publish.gradle')
+//apply from: rootProject.file('gradle/publish.gradle')
 
 kotlin {
     android {

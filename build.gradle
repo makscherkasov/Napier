@@ -36,4 +36,4 @@ allprojects {
     }
 }
 
-apply from: rootProject.file('dependencies.gradle')
+apply from: file('dependencies.gradle')
